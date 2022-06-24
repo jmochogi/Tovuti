@@ -3,25 +3,25 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Mathematics Education
+    institution: Syracuse University
+    year: 2020
+  - course: M.Ed in Mathematics Education
+    institution: Kenyatta University
+    year: 2014
+  - course: B. Ed (Mathematics & Chemistry)
+    institution: Egerton University
     year: 2008
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mathematical Problem Posing 
+- Mathematical Reasoning
+- Mathematics Textbook Analysis
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Ithaca College
+  url: https://www.ithaca.edu/
+role: Assistant Professor of Mathematics
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,11 +39,9 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Joash Geteregechi
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Joash Geteregechi is a professor of mathematics at Ithaca College in New York, United States. Before moving to the United States, Joash was a high school teacher in Kenya (Nyamauro Secondary School) where he taught mathematics and chemistry. At Nyamauro Secondary School, he served as the Head of Science/Mathematics department and as an acting deputy principal for one year. His current research interests include undergraduate mathematics education with a focus on students' mathematical reasoning as well as problem posing. He has also served in various committees (e.g., Supporting students, Activities, and Diversity and Inclusion). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
