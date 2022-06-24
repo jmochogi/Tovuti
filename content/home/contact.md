@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '42.4245'
     longitude: '-76.4938'
-  directions: Come to Williams Hall third floor. faculty Ooffices (Door 311E)
+  directions: Come to Williams Hall third floor. Faculty Offices (Door 311E)
   office_hours:
     - 'Thursday 11:30 to 13:00'
     - 'Wednesday 09:00 to 10:00'
@@ -50,7 +50,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://ithaca.zoom.us/j/3364817575?pwd=WlA1S3hJWWZNTTFoWUVaZlA1clhtdz09'
 
 design:
   columns: '2'
