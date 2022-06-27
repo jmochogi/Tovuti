@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-- 吳恩達
+#- 吳恩達
 categories:
 - Demo
 - 教程

@@ -16,8 +16,15 @@ image:
   preview_only: no
 projects: []
 ---
-I am creating my first post here using Addins section of my RStudio. I just want to see how easy or hard it is to do this in future posts. 
+I am creating my first post here using Addins section of my RStudio. I just want to see how easy or hard it is to do this in future posts.
 
 After this, I am going to stage the changes, commit them, and finally push them to Github. Netlify should be able to pick the changes up from Git and update the website. I believe I had set continuous deploying so I should be fine.
 
 One thing I am wondering about is whether I will be able to fix this website if it gets broken for some weird reason. I need to learn more about Hugo.
+
+In the meantime, today we went to Yanika's son's fourth birthday party. It was big. Lots of (loud) music. Morgan had a lot of fun.
+See first picture below:
+
+![At Isaiah's fourth birthday party. ](images/yanika1.jpeg)
+
+
