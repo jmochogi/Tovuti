@@ -31,7 +31,7 @@ content:
     street: 953 Danby Rd. 
     city: Ithaca
     region: NY
-    postcode: '14850'
+    postcode: '14851'
     country: United States
     country_code: US
   coordinates:
